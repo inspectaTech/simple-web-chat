@@ -1,8 +1,8 @@
-# node-js-getting-started
+# simple-web-chat
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
+major read [Using WebSockets on Heroku with Node.js](https://devcenter.heroku.com/articles/node-websockets)
 
-This application supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
 
 ## Running Locally
 
